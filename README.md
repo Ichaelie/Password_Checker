@@ -12,17 +12,21 @@ A simple Python script that checks the strength of passwords using regex rules (
 ---
 
 How to Run
+
 FOR TERMUX 
 
 Pkg update
+
 Pkg upgrade
 
 Pkg install python 
+
 Pkg install python3
+
 Pkg install git
 
 
-### Step 1: Clone the Repository
+## Clone the Repository
 
 git clone https://github.com/ichaelie/Password_checker.git
 
