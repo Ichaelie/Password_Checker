@@ -28,7 +28,7 @@ Pkg install git
 
 ## Clone the Repository
 
-git clone https://github.com/ichaelie/Password_checker.git
+git clone https://github.com/ja7vis/Password_checker.git
 
 Cd password_checker 
 
